@@ -90,6 +90,10 @@ Git status and command access, displays git file status and can run git commands
 * :Gblame to get side by side blame output for current buffer
 * :Git for arbitrary git commands
 
+### [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+
+Adds file change indicators to the lhs gutter based on git repo status. Integrates with airline to display changes in statusline as well.
+
 ## Colour schemes
 
 ### [vim-colors](https://github.com/spf13/vim-colors)
