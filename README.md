@@ -82,6 +82,14 @@ On windows/cygwin select your desired font and install it then set is as the fon
 
 On linux you can run install.sh and then set it as the font in the terminal.
 
+### [fugitive](http`s://github.com/tpope/vim-fugitive)
+
+Git status and command access, displays git file status and can run git commands.
+
+* :Gstatus to get git status output
+* :Gblame to get side by side blame output for current buffer
+* :Git for arbitrary git commands
+
 ## Colour schemes
 
 ### [vim-colors](https://github.com/spf13/vim-colors)
