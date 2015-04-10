@@ -98,6 +98,12 @@ Adds file change indicators to the lhs gutter based on git repo status. Integrat
 
 Adds a list of open buffers to the statusline.
 
+### [tagbar](https://github.com/majutsushi/tagbar)
+
+Adds a window that can display code tags for the current file. F8 shows/hides the window.
+
+This plugin requires the use of [exuberant ctags](http://ctags.sourceforge.net/) which must be installed.
+
 ## Colour schemes
 
 ### [vim-colors](https://github.com/spf13/vim-colors)

@@ -79,3 +79,6 @@ noremap <C-l> <C-W>l
 
 " toggle the spellchecker
 noremap <F7> :setlocal spell! spell?<CR>
+
+" toggle display of code tags
+noremap <F8> :TagbarToggle<CR>
