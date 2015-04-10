@@ -94,6 +94,10 @@ Git status and command access, displays git file status and can run git commands
 
 Adds file change indicators to the lhs gutter based on git repo status. Integrates with airline to display changes in statusline as well.
 
+### [vim-bufferline](https://github.com/bling/vim-bufferline)
+
+Adds a list of open buffers to the statusline.
+
 ## Colour schemes
 
 ### [vim-colors](https://github.com/spf13/vim-colors)

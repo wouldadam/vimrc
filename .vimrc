@@ -62,7 +62,6 @@ let g:ctrlp_switch_buffer=0     " open files in new buffer
 let g:ctrlp_working_path_mode=0 " respect working directory
 
 set encoding=utf-8
-let g:airline#extensions#tabline#enabled=1 " display buffers when only 1 tab
 let g:airline_powerline_fonts=1 " populate the g:airline_symbols dict
 
 " toggle gundo for advanced undo
